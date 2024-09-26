@@ -113,7 +113,7 @@ body {
 }
 
 .lista__item {
-    font-size: 32px;
+    font-size: 60px
     color: var(--branco-principal);
 }
 
